@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+ion-header {
+  background: #00eeff;
+}
+
+img {
+  width: 15vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15%;
+  margin-bottom: 15%;
+}
+ion-label {
+  font-family: "Roboto", sans-serif;
+}
+
+ion-icon {
+  height: 3vh;
+  width: 3vh;
+  margin-right: 2vh;
+}
+
+ion-button {
+  height: 6vh;
+}
+
+ion-item {
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
